@@ -1,9 +1,9 @@
 # tasks-manager   
-Description
+#Description
 
-A task management tool with real-time collaboration, smart prioritization, and a clean UI.
+#A task management tool with real-time collaboration, smart prioritization, and a clean UI.
 
-Features
+#Features
 
 User Authentication
 Task CRUD Operations
